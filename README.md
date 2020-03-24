@@ -1,2 +1,2 @@
-# Web-Scrapping
+# Web-Scraping
 Fetching data from webpages.
